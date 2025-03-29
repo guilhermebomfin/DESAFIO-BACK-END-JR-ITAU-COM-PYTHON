@@ -68,3 +68,4 @@ A API é capaz de:
 - **datetime** para manipulação e validação de datas e horários
 
 
+A proposta original do desafio foi feita utilizando Java e Spring Boot. Para entender melhor a implementação proposta, veja o vídeo aqui: https://www.youtube.com/watch?v=uke3i4uOejs&feature=youtu.be
